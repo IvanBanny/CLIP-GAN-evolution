@@ -2,6 +2,8 @@
 
 A genetic optimization system that evolves StyleGAN latent vectors to generate increasingly aesthetic images using CLIP embeddings for evaluation.
 
+The notebook is quite heaby due to all the images. You can also view it here: https://colab.research.google.com/drive/1sf4WBx2Bbhm6Rxzi_LVQT6NZ-TCmjavG
+
 **Key terms: genetic algorithm, StyleGAN2-ADA, CLIP, latent space optimization, aesthetic prediction, adaptive mutation, crossover strategies, population diversity**
 
 ## Core Components:
